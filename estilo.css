@@ -54,6 +54,7 @@ p {
     overflow: hidden;
     width: 250px;
     height: 250px;
+    box-shadow: 0px 0px 15px rgb(70, 70, 67);
 }
 
 .circle-image img {

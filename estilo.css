@@ -93,7 +93,8 @@ p {
 
 #menuli {
     display: inline-flex;
-    margin-right: 0.2% auto; 
+    margin-right: 0.2% auto;
+    margin-top: 0.2% auto; 
 }
 
 #menuli a {
@@ -114,6 +115,7 @@ p {
 #menuli1 {
     display: inline-flex;
     margin-right: 0.2% auto;
+    margin-top: 0.2% auto;
 }
 
 #menuli1 a {
@@ -134,6 +136,7 @@ p {
 #menuli2 {
     display: inline-flex;
     margin-right: 0.2% auto;
+    margin-top: 0.2% auto;
 }
 
 #menuli2 a {
@@ -154,6 +157,7 @@ p {
 #menuli3 {
     display: inline-flex;
     margin-right: 0.2% auto;
+    margin-top: 0.2% auto;
 }
 
 #menuli3 a {
@@ -174,6 +178,7 @@ p {
 #menuli4 {
     display: inline-flex;
     margin-right: 0.2% auto;
+    margin-top: 0.2% auto;
 }
 
 #menuli4 a {
@@ -194,6 +199,7 @@ p {
 #menuli5 {
     display: inline-flex;
     margin-right: 0.2% auto;
+    margin-top: 0.2% auto;
 }
 
 #menuli5 a {

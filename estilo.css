@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+@import url("https://fonts.googleapis.com/css?family=Dosis");
+
+
+body {
+    width: 80%;
+    max-width: 1200px;
+    margin: 10px auto;
+    border: 2px solid gray;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-family: "Dosis", sans-serif;
+    background-color: black;
+}
+
+h1, h2 {
+    font-family: "Cabin", sans-serif;
+}
+  
+
+h2 {
+    color: black;
+}
+
+#titulo {
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 2px 2px 15px 20px;
+}
+
+.titulo2 {
+    background-color: black;
+    color: rgb(253, 251, 251)
+}
+
+p {
+    font-family:"Dosis", sans-serif ;
+    font-size: 0.9em;
+}
+
+.card {
+    text-align: center;
+    margin: 10px auto;
+    box-shadow: 0px 0px 15px rgb(70, 70, 67);
+}
+
+.circle-image {
+    text-align: center;
+    margin: 10px auto;
+    float: none;
+    display: block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+}
+
+.circle-image img {
+  width: 100% ;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-text {
+    align-content: center;
+}
+
+.tituloCertificado {
+    text-align: center;
+}
+
+#page {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 2%;
+    margin: 10px auto;
+    background-color:white;
+}

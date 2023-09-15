@@ -1,0 +1,30 @@
+#menu {
+    list-style-type: none;
+    padding: 1%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#menuli {
+    display: inline;
+    margin-right: 5px;
+}
+
+#menuli a {
+    text-decoration: none;
+    padding: 5px 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(34, 33, 33);
+    color: rgb(250, 249, 249);
+    transition: 0.2s;
+}
+
+#menuli a:hover {
+    background-color: white;
+    color: black;
+}
+
+#imgperfil {
+    text-align: center;
+}
